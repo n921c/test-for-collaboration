@@ -1,0 +1,6 @@
+---
+title: "testing collaboration"
+author: "sofia favela"
+format: pdf
+---
+
