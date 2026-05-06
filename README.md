@@ -6,4 +6,8 @@ This is a repo for testing pulling and staging, committing , pulling, pushing, a
 
 ## File & Data Information
 
+|- README.qmd
+|-testing-collab.qmd
+|-testing-collab.pdf
+
 ## Rendered Output
